@@ -1,0 +1,26 @@
+# Node modules
+node_modules/
+
+# Playwright test results and reports
+playwright-report/
+allure-report/
+allure-results/
+
+# Logs
+*.log
+
+# Build output
+dist/
+
+# Environment files
+.env
+.env.*
+
+# OS files
+.DS_Store
+
+# Zipped artifacts
+*.zip
+
+# VSCode settings
+.vscode/
